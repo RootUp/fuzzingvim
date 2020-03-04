@@ -1,2 +1,2 @@
 # Fuzzing VIM with AFL
-Tested on: Linux 4.15.0-88-generic #88-Ubuntu SMP
+<b>Tested on:</b> `Linux 4.15.0-88-generic #88-Ubuntu SMP`
